@@ -1,0 +1,15 @@
+[ 2025-05-08 17:44:31,783 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-05-08 17:44:32,366 ] Using spritesheet cache size of 910
+[ 2025-05-08 17:44:35,001 ] Asset loading complete
+[ 2025-05-08 17:44:35,873 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1e9fc5654b0), parent's thread is QThread(0x1e9f432d820), current thread is QSGRenderThread(0x1e9fd3651a0)
+[ 2025-05-08 17:45:09,999 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-05-08 17:45:10,105 ] Using spritesheet cache size of 910
+[ 2025-05-08 17:45:10,478 ] Asset loading complete
+[ 2025-05-08 17:45:11,067 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1f1dc6a2620), parent's thread is QThread(0x1f1d4c21360), current thread is QSGRenderThread(0x1f1e6170590)
+[ 2025-05-08 17:55:26,798 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-05-08 17:55:26,908 ] Using spritesheet cache size of 910
+[ 2025-05-08 17:55:27,296 ] Asset loading complete
+[ 2025-05-08 17:55:27,877 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1a8e9ef1830), parent's thread is QThread(0x1a8e2385090), current thread is QSGRenderThread(0x1a8f012c5f0)
